@@ -1,12 +1,10 @@
 # dictate-min
 
-![Dictate GUI screenshot](2026-02-14-090605_1067x790_scrot.png)
-
-Minimal push-to-talk desktop dictation app.
-
-Reimplemented from scratch, embeddable, cross platform possible. 
+Minimal push-to-talk desktop dictation app. Reimplemented from scratch, embeddable, cross platform possible. 
 
 Fully offline. You can specify cleanup rules based on the target window, eg. for running terminal commands, so "System CTL" becomes "systemcl" automatically, it can automatically submit, it can pause or duck the main output if you want to use your laptop/webcam mic for dictation, and it is also suitable as a tuned wrapper for transcribing whatever is playing on your main audio output. 
+
+![Dictate GUI screenshot](2026-02-14-090605_1067x790_scrot.png)
 
 ## Quick Start
 
